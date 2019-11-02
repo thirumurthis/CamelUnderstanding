@@ -10,3 +10,6 @@ To execute both the context on seperate jvm
   note -ac if the application context is within the classpath else -fa is direct file location of the context.
   
   The other way to invoke is through custom main program and DefaultCamelContext class.
+  
+  Sample Representation:
+  ![]()
