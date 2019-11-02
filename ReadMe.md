@@ -12,4 +12,4 @@ To execute both the context on seperate jvm
   The other way to invoke is through custom main program and DefaultCamelContext class.
   
   Sample Representation:
-  ![]()
+  ![](https://github.com/thirumurthis/CamelUnderstanding/blob/master/CamelSampleRepresentation.png)
