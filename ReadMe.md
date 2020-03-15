@@ -10,8 +10,10 @@ Execute both the context on seperate jvm
   - use ```org.apache.camel.spring.Main``` with ```-fa file/path/of/ContextBean-to.xml``` or ```-ac ContextBean-to.xml``` 
   
   **`Note:`** 
-       `-ac` to be used when the application context within the classpath 
-       `-fa` to use the direct file location of the context when it is not in the classpath.
+  
+  `-ac` to be used when the application context within the classpath 
+  
+  `-fa` to use the direct file location of the context when it is not in the classpath.
   
   The other way to run or invoke is through custom main program and DefaultCamelContext class, check camel documentation.
   
